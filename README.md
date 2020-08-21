@@ -3,7 +3,7 @@ Drug discovery is a very long and expensive process. The average time from FDA a
 
 PharmaceuticAI was developed to help make this process more time/cost effective, via an iterative process that uses multiple models to generate the best inhibitor for a given target protein. 
 
-## [Project Description Document PDF](https://github.com/TanushGoel/PharmaceuticAI/blob/master/PharmaceuticAI.pdf)
+## [Project Description Document PDF](https://github.com/TanushGoel/PharmaceuticAI/blob/master/Drug%20Discovery%20Project.pdf)
 
 ### Data
 Drug-like Compounds Dataset - [ChEMBL](https://www.ebi.ac.uk/chembl/) (a manually curated database of bioactive molecules with drug-like properties)
