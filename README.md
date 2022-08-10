@@ -8,3 +8,6 @@ PharmaceuticAI was developed to help make this process more time/cost effective,
 Drug-like Compounds Dataset - [ChEMBL](https://www.ebi.ac.uk/chembl/) (a manually curated database of bioactive molecules with drug-like properties)
 
 IC50 Dataset - Davis Dataset and KIBA Dataset
+
+
+[embed]https://github.com/TanushGoel/PharmaceuticAI/blob/master/PharmaceuticAI.pdf[/embed]
