@@ -10,4 +10,4 @@ Drug-like Compounds Dataset - [ChEMBL](https://www.ebi.ac.uk/chembl/) (a manuall
 IC50 Dataset - Davis Dataset and KIBA Dataset
 
 
-[embed]https://github.com/TanushGoel/PharmaceuticAI/blob/master/PharmaceuticAI.pdf[/embed]
+![SlideShow](https://github.com/TanushGoel/PharmaceuticAI/blob/master/PharmaceuticAI.pdf)
